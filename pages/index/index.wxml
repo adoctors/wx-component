@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view >
+	<view class="title">设置初始得分为2分：</view>
+	<mycom  bind:getscoreevent="getScore"  initscore="{{initScore}}"> </mycom>
+	<view class="score">最终得分为：{{score}}分</view>
+</view>
+

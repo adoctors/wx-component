@@ -1,0 +1,16 @@
+/**index.wxss**/
+/*@import "../mycom/mycom.wxss";*/
+.title{
+	font-size: 16px;
+	color:#666;
+	margin:100rpx 0 30rpx 0;
+	box-sizing: border-box;
+	padding-left:30rpx;
+}
+.score{
+	font-size: 16px;
+	color:#666;
+	text-align: right;
+	box-sizing: border-box;
+	padding-right:30rpx;
+}

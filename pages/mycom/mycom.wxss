@@ -1,0 +1,38 @@
+/* pages/mycom/mycom.wxss */
+.pf_wrap{
+	width:626rpx;
+	height:100rpx;
+	/*background:pink; */
+	margin:0 auto;
+	position: relative;
+	left:0;
+	top:0;
+	margin-bottom:20rpx;
+}
+.pfbg{
+	width:626rpx;
+	height:100rpx;
+}
+.snowm{
+	width:89rpx;
+	height:89rpx;
+}
+.snow{
+	width:89rpx;
+	height:89rpx;
+	position:absolute;
+	top:0;
+	left:91rpx;
+}
+.snow2{
+	left:180rpx;
+}
+.snow3{
+	left:269rpx;
+}
+.snow4{
+	left:358rpx;
+}
+.snow5{
+	left:447rpx;
+}

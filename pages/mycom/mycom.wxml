@@ -1,0 +1,12 @@
+<!--pages/mycom/mycom.wxml-->
+<view class="pf_wrap">
+	<image src="../../img/pfbg.png" class="pfbg"></image>
+	<view wx:for="{{list}}" wx:key="index" bindtap="checked" data-index="{{index}}" class="snow {{item.clas}}" >
+		<image src="../../img/snow.png"  hidden="{{item.flag}}" class="snowm">
+		</image>
+	</view>
+	
+
+
+
+</view>
